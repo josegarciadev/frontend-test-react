@@ -1,0 +1,12 @@
+.sidebar{
+    position: fixed;
+    left: 0;
+    width: 15%;
+    background-color: #1b1833;
+    height: 100vh;
+}
+
+.link{
+    background:'#1b1833' !important;
+    color:'#d7c5ff' !important;
+};
